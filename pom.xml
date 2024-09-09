@@ -8,11 +8,11 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.grupo1</groupId>
-	<artifactId>parqueoIs4tech</artifactId>
+	<groupId>com.group1</groupId>
+	<artifactId>parkingIs4Tech</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>parqueoIs4tech</name>
-	<description>Proyecto de Parqueo G1</description>
+	<name>ParkingIs4Tech</name>
+	<description>Proyect of parking group 1</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -30,11 +30,6 @@
 		<java.version>21</java.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.hibernate.validator</groupId> 
-			<artifactId>hibernate-validator</artifactId> 
-			<version>8.0.1.Final</version>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>

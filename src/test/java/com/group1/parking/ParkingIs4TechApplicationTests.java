@@ -1,10 +1,10 @@
-package com.grupo1.parqueoIs4tech;
+package com.group1.parking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ParqueoIs4techApplicationTests {
+class ParkingIs4TechApplicationTests {
 
 	@Test
 	void contextLoads() {
